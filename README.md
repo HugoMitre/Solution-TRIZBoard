@@ -5,6 +5,13 @@ Cite this work (pending submission):
 Enhancing Understanding and Application of the Theory of Inventive Problem-Solving Through a Board Game-Based Learning Approach... (2025). Author 1, Author 2, Author 3, Author 4. 
 
 
+## 🧩 Visual Overview
+
+Below is the Solution Board Sheet used during gameplay:
+
+![Solution Board Sheet](./Solution%20Board%20Sheet.png)
+
+
 # 🧩 Solution TRIZBoard
 
 **Solution TRIZBoard** is a collaborative problem-solving board game inspired by the TRIZ methodology. It is designed to help groups analyze, structure, and creatively solve technical and physical contradictions by following a step-by-step process based on proven engineering principles.
